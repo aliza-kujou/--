@@ -31,15 +31,15 @@ global.MakiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "Deymoon"
+global.botname = "Denji"
 global.textbot = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗗𝙚𝙮𝙢𝙤𝙤𝙣𝗢𝙛𝙘 ❤️"
 global.dev = "Made With ❤️ by 𝗗𝙚𝙮𝙢𝙤𝙤𝙣 𝗢𝙛𝙘"
 global.author = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗗𝙚𝙮𝙢𝙤𝙤𝙣𝗢𝙛𝙘 ❤️"
 global.etiqueta = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗗𝙚𝙮𝙢𝙤𝙤𝙣𝗢𝙛𝙘 ❤️"
-global.currency = "Coins"
-global.banner = "https://qu.ax/ZsSOc.jpg"
-global.icono = "https://qu.ax/ZsSOc.jpg"
-global.catalogo = "https://qu.ax/ZsSOc.jpg"
+global.currency = "DenjiCoins"
+global.banner = "https://files.catbox.moe/m3halr.jpg"
+global.icono = "https://files.catbox.moe/aj9hs3.jpg"
+global.catalogo = "https://files.catbox.moe/n3m958.jpg"
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
